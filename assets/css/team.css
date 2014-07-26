@@ -1,0 +1,44 @@
+/************************************************* team.html */
+.team_headline {
+	margin: 30px 0 10px 10px;
+}
+
+.vita_inner {
+	width: 280px;
+}
+
+.vita_list {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.vita_list li {
+	padding-left: 20px;
+	margin-bottom: 5px;
+	background: url('../img/misc/list-icon.png') left no-repeat !important;
+}
+
+#vita_1 {
+	float: left;
+	margin: 0 60px 0 10px;
+}
+
+#vita_2 {
+	float: left;
+}
+
+.team_about {
+
+}
+
+.team_names {
+	color: #777;
+}
+
+#team_verwaltung_name_left {
+	margin-left: 220px;
+}
+
+#team_verwaltung_name_right {
+	margin-left: 80px;
+}
