@@ -6,7 +6,7 @@
 /*
 #####  Color Palette by Color Scheme Designer
 #####  Palette URL: http://colorschemedesigner.com/#3p21Tw0w0w0w0
-#####  Color Space: RGB; 
+#####  Color Space: RGB;
 
 *** Primary Color:
    var. 1 = #06799F
@@ -27,7 +27,7 @@
 */
 
 /************************************************* clear dumb stuff */
-* { 
+* {
 	margin:0;
 	padding:0;
 	border:0;
@@ -68,7 +68,7 @@ a:hover {
 	clear: both;
 	padding: 5px;
 	height: 94px;
-	
+
 	/*background-color: #3AAACF;*/
 }
 
@@ -76,7 +76,7 @@ a:hover {
 	margin-top: 12px;
 	color: #FFF;
 	border-radius: 30px;
-	
+
 }
 
 .clear {
@@ -211,13 +211,15 @@ table#opening_hours th {
 	/*background-color: #3AAACF;*/
 	padding: 3px 5px 3px 0px;
 	border-bottom: 1px solid #FF8300;
-	margin-bottom: 3px; 
+	margin-bottom: 3px;
 }
 
 table#opening_hours .day {
 	padding-right: 5px;
 }
 
-table#opening_hours .time {
+table#opening_hours .time {}
 
+.barrierefrei {
+	margin-top: 30px;
 }
